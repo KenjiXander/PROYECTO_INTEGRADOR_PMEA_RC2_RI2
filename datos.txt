@@ -1,0 +1,17 @@
+16
+Ramen Instantaneo 5 4.50 0.12
+Camiseta Anime 6 11.99 0.12
+Chompa Anime 7 29.99 0.12
+Collar Anime 15 5.99 0.12
+Palillos Chinos 20 2.99 0.12
+Poster Anime 35 3.99 0.12
+Anillos Akatsuki 20 5.99 0.12
+Bandana Naruto 15 4.99 0.12
+Aretes Zoro 25 3.99 0.12
+Collar Pecados Capitales 40 5.99 0.12
+Espada Meliodas 5 47.99 0.12
+Peluche Luffy 6 9.99 0.12
+Manga One Piece 40 8.00 0.12
+Manga Assassination Classroom 30 8.00 0.12
+Chaqueta SNK 15 34.99 0.12
+Grajeas Harry Potter 30 5.99 0.12
